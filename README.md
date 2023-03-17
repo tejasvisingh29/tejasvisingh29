@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejasv Singh</h1>
+<h1 align="center">Hi 👋, I'm Tejasvi Singh</h1>
 <h3 align="center">Senior QA Engineer.</h3>
 
 - 🔭 I’m currently working on **API and Web testing project**
